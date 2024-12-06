@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-**ClassyKaran/ClassyKaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,html,css,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,javascript,reactjs,nextjs,nodejs,redux,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
