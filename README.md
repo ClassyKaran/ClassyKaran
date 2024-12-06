@@ -16,17 +16,15 @@
 - 📫 How to reach me **R.karan21011@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/ClassyKaran](https://github.com/ClassyKaran)
-- 
 - 😄 Pronouns: Dark_Developer
-- 
 - ⚡ Fun fact **I think I am funny**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
 <div id="badges">
   <a href="https://github.com">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
@@ -44,7 +42,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<h3 align="left">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,angular,redux,nodejs,expressjs,mongodb,mysql,c,cpp,java,python,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 
