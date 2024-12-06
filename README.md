@@ -20,8 +20,6 @@
 - ⚡ Fun fact **I think I am funny**
 
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -41,8 +39,9 @@
    <a href="https://twitter.com">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <h3 align="left">Languages and Tools:</h3>
 </div>
-<h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,angular,redux,nodejs,expressjs,mongodb,mysql,c,cpp,java,python,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 
