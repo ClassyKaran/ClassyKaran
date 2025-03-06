@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **R.karan21011@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ClassyKaran](https://github.com/ClassyKaran)
+- 📄 Know about my experiences [https://classykaran.github.io/karanprofile]
 - 😄 Pronouns: Dark_Developer
 - ⚡ Fun fact **I think I am funny**
 
