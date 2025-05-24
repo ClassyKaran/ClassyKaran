@@ -1,48 +1,50 @@
-<h1 align="center">Hi 👋, I'm KARAN_RAJPUT</h1>
-<h3 align="center">A passionate Full-Stack-developer from Maharastra,India</h3>
+<h1 align="center">Hi 👋, I'm KARAN RAJPUT</h1>
+<h3 align="center">🚀 A Passionate Full-Stack Developer from Maharashtra, India 🇮🇳</h3>
 
-- 🔭 I’m currently working on **Full-Stack-Projects**
+---
 
-- 🌱 I’m currently learning **Ethical Haking**
+- 🔭 I’m currently working on: **Full-Stack Web Applications**
+- 🌱 Currently learning: **Ethical Hacking & Cybersecurity**
+- 🤝 Looking to collaborate on: **Networking & Open Source Projects**
+- 👨‍💻 All of my projects are available here: [github.com/ClassyKaran](https://github.com/ClassyKaran)
+- 📝 I occasionally write articles and guides here: [GitHub Blog](https://github.com/ClassyKaran)
+- 💬 Ask me about: **React, Angular, Vue, Node.js**
+- 📫 Reach me at: **R.karan21011@gmail.com**
+- 📄 Know more about my work: [My Portfolio](https://classykaran.github.io/karanprofile)
+- 😄 Pronouns: **Dark_Developer**
+- ⚡ Fun Fact: **I crack bugs and jokes with equal passion!**
 
-- 🤝 I’m looking for help with **Networking**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/ClassyKaran](https://github.com/ClassyKaran)
+<h3 align="left">🌐 Connect with Me</h3>
 
-- 📝 I regularly write articles on [https://github.com/ClassyKaran](https://github.com/ClassyKaran)
-
-- 💬 Ask me about **React , Angular , Vue**
-
-- 📫 How to reach me **R.karan21011@gmail.com**
-
-- 📄 Know about my experiences [https://classykaran.github.io/karanprofile]
-- 😄 Pronouns: Dark_Developer
-- ⚡ Fun fact **I think I am funny**
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
-<div id="badges">
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  <a href="https://github.com/ClassyKaran" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com">
+  <a href="https://www.youtube.com" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-   <a href="https://www.instagram.com">
+  <a href="https://www.instagram.com" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/aaxiftaj">
+  <a href="https://fb.com/aaxiftaj" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="https://twitter.com">
+  <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <h3 align="left">Languages and Tools:</h3>
-</div>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,angular,redux,nodejs,expressjs,mongodb,mysql,c,cpp,java,python,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+---
 
+<h3 align="left">🛠️ Languages and Tools</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,angular,redux,nodejs,expressjs,mongodb,mysql,c,cpp,java,python,github,git,postman,figma,xd&perline=8)](https://skillicons.dev)
 
+---
+
+<h3 align="center">Thanks for visiting my profile! 🙏</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ClassyKaran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
